@@ -22,7 +22,7 @@
     "url": "https://www.savenergyspa.com/",
     "icon": "https://favicons.githubusercontent.com/www.savenergyspa.com",
     "slug": "sav-energy-sp-a",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 260,
     "timeMonth": 348,
     "timeYear": 372,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   },
   {
     "name": "SavEnergy Instagram",
