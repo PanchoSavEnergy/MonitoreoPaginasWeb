@@ -22,19 +22,19 @@
     "url": "https://www.savenergyspa.com/",
     "icon": "https://favicons.githubusercontent.com/www.savenergyspa.com",
     "slug": "sav-energy-sp-a",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 154,
-    "timeWeek": 260,
-    "timeMonth": 348,
-    "timeYear": 372,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 377,
+    "timeDay": 441,
+    "timeWeek": 319,
+    "timeMonth": 360,
+    "timeYear": 377,
     "dailyMinutesDown": {
-      "2022-04-14": 0
+      "2022-04-14": 11
     }
   },
   {
