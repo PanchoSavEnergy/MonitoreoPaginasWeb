@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 81,
-    "timeDay": 60,
+    "timeDay": 62,
     "timeWeek": 76,
-    "timeMonth": 78,
+    "timeMonth": 77,
     "timeYear": 81,
     "dailyMinutesDown": {}
   },
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/www.savenergyspa.com",
     "slug": "sav-energy-sp-a",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 377,
-    "timeDay": 441,
-    "timeWeek": 319,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 374,
+    "timeDay": 426,
+    "timeWeek": 311,
     "timeMonth": 360,
-    "timeYear": 377,
-    "dailyMinutesDown": {
-      "2022-04-14": 11
-    }
+    "timeYear": 374,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SavEnergy Instagram",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 729,
-    "timeDay": 1019,
-    "timeWeek": 818,
-    "timeMonth": 770,
-    "timeYear": 729,
+    "time": 730,
+    "timeDay": 785,
+    "timeWeek": 860,
+    "timeMonth": 753,
+    "timeYear": 730,
     "dailyMinutesDown": {}
   },
   {
