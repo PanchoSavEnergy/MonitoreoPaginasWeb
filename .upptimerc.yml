@@ -22,9 +22,9 @@ status-website:
   # baseUrl: /your-repo-name
   baseUrl: /MonitoreoPaginasWeb
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Monitoreo
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Monitoreo de páginas externas 
+  introTitle: "Bienvenido al proyecto **Upptime**. Herramienta de código abierto, y hosteado en GitHub Pages."
+  introMessage: Esta es una página de monitoreo que verifica el status de otras páginas para verificar si éstas se encuentran online. This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
