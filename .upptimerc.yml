@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Monitoreo de páginas externas 
   introTitle: "Bienvenido al proyecto **Upptime**. Herramienta de código abierto, y hosteado en GitHub Pages."
-  introMessage: Esta es una página de monitoreo que verifica el status de otras páginas para verificar si éstas se encuentran online. Utiliza datos en **tiempo real** desde el [repositorio Github original](https://github.com/upptime/upptime). No necesita un servidor externo para funcionar — sólo las herramientas de GitHub: Actions, Issues, and Pages. [**¿Quieres aprender a usar esta herramienta?**](https://github.com/upptime/upptime)
+  introMessage: "Esta es una página de monitoreo que verifica el status de otras páginas para verificar si éstas se encuentran online. Utiliza datos en **tiempo real** desde el [repositorio Github original](https://github.com/upptime/upptime). No necesita un servidor externo para funcionar — sólo las herramientas de GitHub: Actions, Issues, and Pages. [**¿Quieres aprender a usar esta herramienta?**](https://github.com/upptime/upptime)"
   navbar:
     - title: Status
       href: /
