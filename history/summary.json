@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 81,
-    "timeDay": 101,
-    "timeWeek": 80,
+    "timeDay": 56,
+    "timeWeek": 77,
     "timeMonth": 80,
     "timeYear": 81,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 126,
-    "timeWeek": 858,
-    "timeMonth": 509,
-    "timeYear": 425,
+    "time": 422,
+    "timeDay": 123,
+    "timeWeek": 756,
+    "timeMonth": 507,
+    "timeYear": 422,
     "dailyMinutesDown": {}
   },
   {
@@ -42,15 +42,15 @@
     "slug": "sav-energy-instagram",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.63%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 721,
-    "timeDay": 512,
-    "timeWeek": 743,
+    "time": 719,
+    "timeDay": 485,
+    "timeWeek": 668,
     "timeMonth": 723,
-    "timeYear": 721,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2022-05-06": 20
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 150,
-    "timeWeek": 279,
-    "timeMonth": 279,
-    "timeYear": 279,
+    "time": 263,
+    "timeDay": 154,
+    "timeWeek": 235,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   }
 ]
