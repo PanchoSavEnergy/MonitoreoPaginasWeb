@@ -92,9 +92,9 @@
     "url": "https://shorturl-session.herokuapp.com/auth/login",
     "icon": "https://favicons.githubusercontent.com/shorturl-session.herokuapp.com",
     "slug": "app-short-url-subida-en-heroku",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -103,6 +103,8 @@
     "timeWeek": 340,
     "timeMonth": 299,
     "timeYear": 291,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-10": 0
+    }
   }
 ]
