@@ -88,23 +88,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "App ShortUrl subida en Heroku",
+    "name": "API Rest Favoritos Url",
     "url": "https://shorturl-session.herokuapp.com/auth/login",
     "icon": "https://favicons.githubusercontent.com/shorturl-session.herokuapp.com",
-    "slug": "app-short-url-subida-en-heroku",
+    "slug": "api-rest-favoritos-url",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
-    "time": 295,
-    "timeDay": 316,
-    "timeWeek": 377,
-    "timeMonth": 301,
-    "timeYear": 295,
-    "dailyMinutesDown": {
-      "2022-06-10": 23
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 442,
+    "timeDay": 442,
+    "timeWeek": 442,
+    "timeMonth": 442,
+    "timeYear": 442,
+    "dailyMinutesDown": {}
   }
 ]
