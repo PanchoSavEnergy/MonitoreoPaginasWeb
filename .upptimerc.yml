@@ -11,7 +11,7 @@ sites:
     url: https://www.instagram.com/savenergy.spa/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: App ShortUrl subida en Heroku
+  - name: API Rest Favoritos Url
     url: https://shorturl-session.herokuapp.com/auth/login
     
     
