@@ -13,6 +13,8 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: API Rest Favoritos Url
     url: https://shorturl-session.herokuapp.com/auth/login
+  - name: Angular Shop
+    url: https://panchosavenergy.github.io/angular2-shop/
     
     
 
