@@ -105,5 +105,23 @@
     "timeMonth": 332,
     "timeYear": 332,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Angular Shop",
+    "url": "https://panchosavenergy.github.io/angular2-shop/",
+    "icon": "https://favicons.githubusercontent.com/panchosavenergy.github.io",
+    "slug": "angular-shop",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 54,
+    "timeDay": 54,
+    "timeWeek": 54,
+    "timeMonth": 54,
+    "timeYear": 54,
+    "dailyMinutesDown": {}
   }
 ]
