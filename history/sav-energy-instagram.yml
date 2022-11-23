@@ -1,7 +1,7 @@
 url: https://www.instagram.com/savenergy.spa/
-status: up
-code: 200
-responseTime: 500
-lastUpdated: 2022-11-23T21:29:26.286Z
+status: down
+code: 429
+responseTime: 165
+lastUpdated: 2022-11-23T21:35:39.450Z
 startTime: Tue Feb 01 2022 15:42:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
