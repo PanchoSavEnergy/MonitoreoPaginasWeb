@@ -45,17 +45,17 @@
     "url": "https://www.instagram.com/savenergy.spa/",
     "icon": "https://favicons.githubusercontent.com/www.instagram.com",
     "slug": "sav-energy-instagram",
-    "status": "up",
-    "uptime": "92.96%",
-    "uptimeDay": "1.57%",
-    "uptimeWeek": "1.68%",
-    "uptimeMonth": "28.93%",
-    "uptimeYear": "92.96%",
-    "time": 523,
-    "timeDay": 269,
-    "timeWeek": 393,
-    "timeMonth": 395,
-    "timeYear": 523,
+    "status": "down",
+    "uptime": "93.00%",
+    "uptimeDay": "1.93%",
+    "uptimeWeek": "1.73%",
+    "uptimeMonth": "29.26%",
+    "uptimeYear": "93.00%",
+    "time": 522,
+    "timeDay": 247,
+    "timeWeek": 387,
+    "timeMonth": 394,
+    "timeYear": 522,
     "dailyMinutesDown": {
       "2022-12-05": 1345,
       "2022-12-04": 1423,
@@ -79,7 +79,7 @@
       "2022-11-16": 1421,
       "2022-11-15": 1404,
       "2022-11-14": 1397,
-      "2022-11-13": 973
+      "2022-11-13": 831
     }
   },
   {
@@ -108,8 +108,8 @@
     "status": "down",
     "uptime": "97.68%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "46.68%",
-    "uptimeMonth": "87.73%",
+    "uptimeWeek": "46.63%",
+    "uptimeMonth": "87.72%",
     "uptimeYear": "97.68%",
     "time": 345,
     "timeDay": 173,
@@ -117,7 +117,7 @@
     "timeMonth": 277,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2022-12-05": 1368,
+      "2022-12-05": 1373,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
       "2022-12-02": 1127
